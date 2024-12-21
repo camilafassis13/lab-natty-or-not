@@ -23,19 +23,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook sobre Tags HTML
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- GEMINI
+- CHAT GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ajuda à Gemini para a geração da capa e demais ilustrações
+O conteúdo textual foi gerado pelo Chat Gpt através das seguintes instruções:
+Faça um texto para ebook, com foco em html, listando as principais tags html com exemplos em codigo:
+
+(regras)
+
+> explique sempre de uma maneira simples
+
+> deixe tudo enxuto
+
+> sempre traga exemplos de codigo em contextos reais
+
+> sempre deixe um titulo sugestivo por topico 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados do projeto: https://github.com/camilafassis13/ebook_html
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi relativamente simples, dado que quanto mais informações provemos à IA, melhor a qualidade e refinamento do conteúdo
 ```
 
 ### Exemplos e Insigths
